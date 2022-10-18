@@ -1,0 +1,16 @@
+{
+  "name": "fake-names",
+  "version": "1.0.5",
+  "description": "Do you need generate fake names for demo data? Use this!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fake-names",
+    "demo",
+    "random"
+  ],
+  "author": "Matej Koncal",
+  "license": "ISC"
+}
